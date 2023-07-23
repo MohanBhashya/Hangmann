@@ -1,0 +1,39 @@
+HealthTrack Output
+
+Welcome to the program!
+1. Sign up
+2. Log in
+3. Exit
+Enter your choice: 1
+Enter username: user
+Enter password: 123
+Sign up successful!1. Sign up
+2. Log in
+3. Exit
+Enter your choice: 2
+Enter username: user
+Enter password: 123
+Login successful!
+Enter Systolic Pressure: 120
+Enter Diastolic Pressure: 72
+Blood Pressure:
+Systolic Pressure: 120
+Diastolic Pressure: 72
+Normal Blood Pressure
+Enter Height (in cm): 14
+Enter Weight (in kg): 55
+Body Mass Index:
+Height: 14 cm
+Weight: 55 kg
+BMI: 2806.12
+Obese
+Enter the number of symptoms: 1
+Enter your symptom: cough
+Solution for symptom 1:
+Name: Benadryl
+Quantity: 10ml
+Price: 3
+Medicine Form: Syrup
+Flavor: Menthol
+Get well soon.Wishing you a speedy Recovery!!!
+If the symptoms still persists,consult the Doctor
